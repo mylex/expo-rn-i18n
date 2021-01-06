@@ -1,8 +1,9 @@
 {
   "name": "ex-rn-i18n",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Exponentisation of => Expo React Native and I18n [ex-react-native-i18n].js integration",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "github.com/mylex/expo-rn-i18n.git"
@@ -18,6 +19,9 @@
   ],
   "author": "Abu Sufian <asufian47@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "expo-localization": "~9.1.0"
+  },
   "devDependencies": {},
   "peerDependencies": {
     "expo": "*"
