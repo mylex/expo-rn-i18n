@@ -1,0 +1,25 @@
+{
+  "name": "ex-rn-i18n",
+  "version": "0.0.1",
+  "description": "Exponentisation of => Expo React Native and I18n [ex-react-native-i18n].js integration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/xcarpentier/ex-react-native-i18n.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "i18n",
+    "expo35~",
+    "exponent",
+    "exponentjs"
+  ],
+  "author": "Abu Sufian <asufian47@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "peerDependencies": {
+    "expo": "*"
+  }
+}
